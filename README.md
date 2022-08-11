@@ -8,6 +8,7 @@ INSERT REPOSITORY STRUCTURE HERE
 
 If you use the data or code from this repository for your research, please cite the following paper:
 
+```
 @inproceedings{Helmholz2022AVAR,
   title     =     {Towards the prediction of perceived room acoustical similarity,
   author    =     {Hannes Helmholz and Ishwarya Ananthabhotla and Paul Calamia and Sebastia V. Amengual Gari},
@@ -18,3 +19,4 @@ If you use the data or code from this repository for your research, please cite 
   month     =     {08}
   year      =     {2022}
 }
+```
