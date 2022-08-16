@@ -10,7 +10,7 @@ Supplementary material to the paper _Towards the prediction of perceived room ac
 - Binaural RIRs (BRIR) for several head orientations rendered using Binaural SDM. (upcoming)
 - Example scripts to render the multichannel RIRs into BRIRs. (upcoming)
 
-# How to use the data
+## How to use the data
 
 
 ## Paper citation
