@@ -5,7 +5,7 @@ Supplementary material to the paper _Towards the prediction of perceived room ac
 
 # Contents of this repository
 
-- Multichannel Room Impulse Responses (RIR) from the paper (sampling rate 192 kHz). These are measured with the [RL-R Audio open array](https://github.com/facebookresearch/BinauralSDM#microphone-arrays) (7 channels, central microphone + 6 pairs, 10cm diameter) and can be rendered using the [Binaural SDM repository](https://github.com/facebookresearch/BinauralSDM).
+- Multichannel Room Impulse Responses (RIR) from the paper (sampling rate 192 kHz). These are measured with the [RL-R Audio open array](https://github.com/facebookresearch/BinauralSDM#microphone-arrays) (7 channels, central microphone + 3 pairs, 10cm diameter) and can be rendered using the [Binaural SDM repository](https://github.com/facebookresearch/BinauralSDM).
 - Summary table of the room acoustical parameters of the RIRs used in the experiment. (upcoming)
 - Binaural RIRs (BRIR) for several head orientations rendered using Binaural SDM. (upcoming)
 - Example scripts to render the multichannel RIRs into BRIRs. (upcoming)
