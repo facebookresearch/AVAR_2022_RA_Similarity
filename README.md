@@ -3,7 +3,7 @@
 
 Supplementary material to the paper _Towards the prediction of perceived room acoustical similarity_ published at _AES AVAR 2022_
 
-# Contents of this repository
+## Contents of this repository
 
 - Multichannel Room Impulse Responses (RIR) from the paper (sampling rate 192 kHz). These are measured with the [RL-R Audio open array](https://github.com/facebookresearch/BinauralSDM#microphone-arrays) (7 channels, central microphone + 3 pairs, 10cm diameter) and can be rendered using the [Binaural SDM repository](https://github.com/facebookresearch/BinauralSDM).
 - Summary table of the room acoustical parameters of the RIRs used in the experiment. (upcoming)
@@ -12,6 +12,8 @@ Supplementary material to the paper _Towards the prediction of perceived room ac
 
 # How to use the data
 
+
+## Paper citation
 
 ```
 @inproceedings{Helmholz2022AVAR,
