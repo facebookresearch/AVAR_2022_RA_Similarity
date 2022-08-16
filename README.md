@@ -3,18 +3,32 @@
 
 Supplementary material to the paper _Towards the prediction of perceived room acoustical similarity_ published at _AES AVAR 2022_
 
+# Contents of this repository
+
+
+# How to use the data
+
 
 ```
 @inproceedings{Helmholz2022AVAR,
-  title     =     {Towards the prediction of perceived room acoustical similarity,
+  title     =     {Towards the prediction of perceived room acoustical similarity},
   author    =     {Hannes Helmholz and Ishwarya Ananthabhotla and Paul Calamia and Sebastia V. Amengual Gari},
-  booktitle =     {AVAR 2022: AES 4th International Conference on Audio for Virtual and Augmented Reality,
+  booktitle =     {AES 2022 International Audio for Virtual and Augmented Reality Conference},
   publisher =     {Audio Engineering Society},
-  pages     =     {},
-  doi       =     {}
   month     =     {08}
   year      =     {2022}
 }
 ```
+
+
+## Contributing
+See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
+
+## License
+The data from AVAR_2022_RA_Similarity is CC-BY-NC-4.0 licensed, as found in the [LICENSE](LICENSE) file.
+
+## Contact
+Sebastia V. Amengual (samengual@fb.com)
+
 
 
