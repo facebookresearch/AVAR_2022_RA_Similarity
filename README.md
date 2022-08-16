@@ -5,7 +5,7 @@ Supplementary material to the paper _Towards the prediction of perceived room ac
 
 # Contents of this repository
 
-- Multichannel Room Impulse Responses (RIR) from the paper. (upcoming)
+- Multichannel Room Impulse Responses (RIR) from the paper (sampling rate 192 kHz). 
 - Summary table of the room acoustical parameters of the RIRs used in the experiment. (upcoming)
 - Binaural RIRs (BRIR) for several head orientations rendered using Binaural SDM. (upcoming)
 - Example scripts to render the multichannel RIRs into BRIRs. (upcoming)
