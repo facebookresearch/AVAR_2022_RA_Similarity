@@ -1,0 +1,4 @@
+[submodule "dependencies/BinauralSDM"]
+	path = dependencies/BinauralSDM
+	url = https://github.com/facebookresearch/BinauralSDM
+	branch = wip-convenience-update
